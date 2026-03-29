@@ -2,6 +2,8 @@
 
 A full-stack AI-powered code review system built with FastAPI and React. Point CodeSentinel at any public GitHub repository, and it deploys a pipeline of specialized AI agents to detect bugs, audit security vulnerabilities, assess documentation quality, and measure code health — then synthesizes everything into a structured report with suggested fixes, streamed live to your browser.
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://code-sentinel2.vercel.app/)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green?style=flat&logo=fastapi)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react)

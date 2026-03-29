@@ -1,6 +1,6 @@
 # CodeSentinel — Multi-Agent Code Analysis & Self-Repair System
 
-[![Live Demo](https://img.shields.io/badge/▲%20LIVE-DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://code-sentinel2.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/▲LIVE-DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://code-sentinel2.vercel.app/)
 
 A full-stack AI-powered code review system built with FastAPI and React. Point CodeSentinel at any public GitHub repository, and it deploys a pipeline of specialized AI agents to detect bugs, audit security vulnerabilities, assess documentation quality, and measure code health — then synthesizes everything into a structured report with suggested fixes, streamed live to your browser.
 

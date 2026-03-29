@@ -1,6 +1,3 @@
-# CodeSentinel — Multi-Agent Code Analysis & Self-Repair System
-
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://code-sentinel2.vercel.app/)
 
 <div align="center">
 
@@ -8,8 +5,7 @@
 
 **Multi-agent autonomous code review and self-debugging system**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://code-sentinel2.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ritwik-basak/CodeSentinel)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://code-sentinel2.vercel.app/)
 
 </div>
 

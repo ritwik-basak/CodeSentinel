@@ -3,7 +3,7 @@
 
 # CodeSentinel 🛡️
 
-**Multi-agent autonomous code review and self-debugging system**
+## Multi-agent autonomous code review and self-debugging system
 
 [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://code-sentinel2.vercel.app/)
 

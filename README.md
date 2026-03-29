@@ -13,6 +13,19 @@ A full-stack AI-powered code review system built with FastAPI and React. Point C
 
 ---
 
+## 📸 Demo Preview
+
+| Homepage | Agent Pipeline |
+|----------|---------------|
+| ![](assets/Homepage.png) | ![](assets/Agent Pipeline.png) |
+
+| Repo Overview | Bugs & Fixes |
+|--------------|-------------|
+| ![](assets/Repo Overview.png) | ![](assets/Bugs & Fixes.png) |
+
+---
+
+
 ## ✨ Key Highlights
 
 - Built a full-stack multi-agent code review system using FastAPI, LangGraph, and React

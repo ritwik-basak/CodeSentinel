@@ -28,11 +28,11 @@ A full-stack AI-powered code review system built with FastAPI and React. Point C
 
 | Homepage | Agent Pipeline |
 |----------|---------------|
-| ![](assets/Homepage.png) | ![](assets/Agent%20Pipeline.png) |
+| <a href="assets/Homepage.png"><img src="assets/Homepage.png" width="100%"/></a> | <a href="assets/Agent%20Pipeline.png"><img src="assets/Agent%20Pipeline.png" width="100%"/></a> |
 
 | Repo Overview | Bugs & Fixes |
 |--------------|-------------|
-| ![](assets/Repo%20Overview.png) | ![](assets/Bugs%20%26%20Fixes.png) |
+| <a href="assets/Repo%20Overview.png"><img src="assets/Repo%20Overview.png" width="100%"/></a> | <a href="assets/Bugs%20%26%20Fixes.png"><img src="assets/Bugs%20%26%20Fixes.png" width="100%"/></a> |
 
 ---
 
